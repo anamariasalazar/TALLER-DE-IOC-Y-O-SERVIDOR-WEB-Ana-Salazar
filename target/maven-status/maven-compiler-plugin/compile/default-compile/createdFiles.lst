@@ -1,0 +1,5 @@
+edu\eci\escuelaing\arep\networking\URLReader.class
+edu\eci\escuelaing\arep\networking\Socket\EchoServer.class
+edu\eci\escuelaing\arep\networking\Socket\EchoClient.class
+edu\eci\escuelaing\arep\networking\URLExamples.class
+edu\eci\escuelaing\arep\networking\httpServer\HttpServer.class
